@@ -18,7 +18,7 @@ def home():
 def create_item():
         if not check_auth(request):
                 return jsonify({"error":"Unauthorized"}), 401
-        data = request.get_json()
+        data = request.get_json(silent=True)
         name = data.get("name")
         value = data.get("value")
         if not name or value is None:
