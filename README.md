@@ -61,7 +61,7 @@ cd Pay3-Dev-Ops-Assignment
 ## Public URL
 
 `http://43.205.110.164`
-
+(Note: EC2 public IP may change if the instance is restarted.)
 
 
 ## Example CURL Requests
