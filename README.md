@@ -93,7 +93,6 @@ curl http://43.205.110.164/list \
 - RDS is not publicly accessible.
 - RDS security group allows access only from EC2 security group.
 - Database credentials are passed via environment variables.
-- No secrets are committed to GitHub.
 
 
 
