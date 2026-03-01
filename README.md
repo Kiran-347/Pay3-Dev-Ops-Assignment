@@ -106,4 +106,4 @@ curl http://43.205.110.164/list \
 
 ### 2. RDS Table Showing Inserted Data
 
-![RDS Table](screenshots/rds_table.png)
+![RDS Table](screenshots/RDS_Table.png)
